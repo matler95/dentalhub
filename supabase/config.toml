@@ -1,0 +1,9 @@
+project_id = "hub"
+[api]
+enabled = true
+[db]
+port = 54322
+major_version = 15
+[auth]
+enabled = true
+site_url = "http://localhost:5173"
